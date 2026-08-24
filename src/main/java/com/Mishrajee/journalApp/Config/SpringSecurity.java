@@ -26,7 +26,7 @@ public class SpringSecurity {
 
     @Autowired
     private UserDetailsServiceImpl userDetailsService;
-
+// spring updated
     @Autowired
     private JwtFilter jwtFilter;
 
