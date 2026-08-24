@@ -14,7 +14,7 @@ import java.util.Map;
 public class ApiCache {
     @Autowired
     private ConfigJournalAppRepository configJournalAppRepository;
-
+//api powered
     public final Map<String,String> APP_CACHE = new HashMap<>();
 
     @PostConstruct
