@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 @Service
 @Slf4j
 public class EmailService {
-
+//Updated Email Entries
 
     private final JavaMailSender javaMailSender;
 
