@@ -1,5 +1,5 @@
 package com.Mishrajee.journalApp.Repository;
-
+// Changes app Repo
 import com.Mishrajee.journalApp.Entity.ConfigJournalAppEntity;
 import com.Mishrajee.journalApp.Entity.User;
 import org.bson.types.ObjectId;
