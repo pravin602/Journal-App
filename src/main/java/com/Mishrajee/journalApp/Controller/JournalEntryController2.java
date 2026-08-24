@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
 @RestController
 @RequestMapping("/journal")
 public class JournalEntryController2 {
-
+// Journel Entries
     @Autowired
     private JournalEntryService journalEntryService;
 
